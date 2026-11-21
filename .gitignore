@@ -1,0 +1,13 @@
+# Raw and derived patient-level data must never be committed (PhysioNet DUA)
+raw_data/
+analysis_r1/
+analysis_r2/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
